@@ -1,0 +1,14 @@
+C:\Users\Aydan\Desktop\Card\Card\bin\Debug\netcoreapp3.1\Card.exe
+C:\Users\Aydan\Desktop\Card\Card\bin\Debug\netcoreapp3.1\Card.deps.json
+C:\Users\Aydan\Desktop\Card\Card\bin\Debug\netcoreapp3.1\Card.runtimeconfig.json
+C:\Users\Aydan\Desktop\Card\Card\bin\Debug\netcoreapp3.1\Card.runtimeconfig.dev.json
+C:\Users\Aydan\Desktop\Card\Card\bin\Debug\netcoreapp3.1\Card.dll
+C:\Users\Aydan\Desktop\Card\Card\bin\Debug\netcoreapp3.1\Card.pdb
+C:\Users\Aydan\Desktop\Card\Card\obj\Debug\netcoreapp3.1\Card.csproj.AssemblyReference.cache
+C:\Users\Aydan\Desktop\Card\Card\obj\Debug\netcoreapp3.1\Card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aydan\Desktop\Card\Card\obj\Debug\netcoreapp3.1\Card.AssemblyInfoInputs.cache
+C:\Users\Aydan\Desktop\Card\Card\obj\Debug\netcoreapp3.1\Card.AssemblyInfo.cs
+C:\Users\Aydan\Desktop\Card\Card\obj\Debug\netcoreapp3.1\Card.csproj.CoreCompileInputs.cache
+C:\Users\Aydan\Desktop\Card\Card\obj\Debug\netcoreapp3.1\Card.dll
+C:\Users\Aydan\Desktop\Card\Card\obj\Debug\netcoreapp3.1\Card.pdb
+C:\Users\Aydan\Desktop\Card\Card\obj\Debug\netcoreapp3.1\Card.genruntimeconfig.cache
